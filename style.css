@@ -1,5 +1,5 @@
 body {
-    background-image: url(/image.jpg'); /* Remplacez 'chemin/vers/votre/image.jpg' par le chemin de votre image */
+    background-image: url(https://king-ahmed.github.io/yt3/image.jpg'); /* Remplacez 'chemin/vers/votre/image.jpg' par le chemin de votre image */
     background-size: cover; /* Pour ajuster la taille de l'image à la fenêtre du navigateur */
     background-attachment: fixed; /* Pour que l'image reste fixe lors du défilement */
     background-repeat: no-repeat; /* Pour éviter la répétition de l'image */
